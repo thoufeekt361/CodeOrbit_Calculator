@@ -73,15 +73,17 @@ The calculator includes:
 
 ### 1. Clone the repository
 
-```bash
-git clone https://github.com/your-username/your-repository-name.git
-```
+git clone https://github.com/thoufeekt361/CodeOrbit_Calculator.git
 
 ### 2. Open the project
 
-```bash
-cd your-repository-name
-```
+Navigate to the project folder:
+
+cd CodeOrbit_Calculator
+
+Then open the folder in VS Code:
+
+code .
 
 ### 3. Run the application
 
@@ -121,7 +123,7 @@ Computer Science Engineering Student
 
 ### Connect With Me
 
-- **GitHub:** https://github.com/thoufeekt361
+- **GitHub:** https://github.com/thoufeekt361/CodeOrbit_Calculator
 - **LinkedIn:** https://www.linkedin.com/in/thoufeek-t-60838a358/
 
 ## 📄 License
