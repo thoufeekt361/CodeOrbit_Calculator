@@ -6,7 +6,7 @@ A simple and responsive **Calculator Web App** built using **HTML, CSS, and Java
 
 Add your deployed project link here:
 
-**Live Demo:** `https://your-demo-link.com`
+**Live Demo:** code-orbit-calculator-yz8iafkq5-t5-6c5f.vercel.app
 
 ## 📌 Project Overview
 
